@@ -44,7 +44,7 @@ Display the test accuracy, confusion matrix, and classification report.
 
 ### Name: HARISH S
 
-### Register Number:212223230071
+### Register Number: 212223230071
 
 ```
 import torch
